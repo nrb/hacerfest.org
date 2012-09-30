@@ -1,0 +1,6 @@
+HacerFest.org
+==============
+
+This repository is meant to house the hacerfest.org homepage.  Currently, it is just a static page, but in the future there will be a
+dynamic web app backing it, allowing us to schedule new events, allow users to post links to their projects, and possibly manage
+various locations for the event.
